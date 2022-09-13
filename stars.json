@@ -1,14 +1,14 @@
 [
   {
     "full_name": "rishavanand/github-profilinator",
-    "stargazers_count": 590,
+    "stargazers_count": 591,
     "open_issues_count": 10,
     "forks_count": 55
   },
   {
     "full_name": "Ninad89/joi-relative-date-validator",
     "stargazers_count": 1,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 1
   },
   {
@@ -26,37 +26,37 @@
   {
     "full_name": "Ninad89/express-headers-setter",
     "stargazers_count": 2,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "niieani/hashids.js",
-    "stargazers_count": 3815,
+    "stargazers_count": 3816,
     "open_issues_count": 12,
     "forks_count": 213
   },
   {
     "full_name": "octokatherine/readme.so",
-    "stargazers_count": 2938,
+    "stargazers_count": 2936,
     "open_issues_count": 26,
     "forks_count": 215
   },
   {
     "full_name": "angular/angular-cli",
-    "stargazers_count": 25620,
-    "open_issues_count": 229,
-    "forks_count": 12116
+    "stargazers_count": 25619,
+    "open_issues_count": 231,
+    "forks_count": 12117
   },
   {
     "full_name": "Polymer/polymer",
-    "stargazers_count": 21833,
+    "stargazers_count": 21834,
     "open_issues_count": 51,
     "forks_count": 2032
   },
   {
     "full_name": "JedWatson/classnames",
-    "stargazers_count": 15808,
-    "open_issues_count": 18,
+    "stargazers_count": 15813,
+    "open_issues_count": 10,
     "forks_count": 539
   }
 ]
