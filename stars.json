@@ -1,9 +1,9 @@
 [
   {
     "full_name": "rishavanand/github-profilinator",
-    "stargazers_count": 648,
+    "stargazers_count": 650,
     "open_issues_count": 12,
-    "forks_count": 60
+    "forks_count": 61
   },
   {
     "full_name": "Ninad89/joi-relative-date-validator",
@@ -14,7 +14,7 @@
   {
     "full_name": "GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension",
     "stargazers_count": 154,
-    "open_issues_count": 21,
+    "open_issues_count": 22,
     "forks_count": 29
   },
   {
@@ -31,21 +31,21 @@
   },
   {
     "full_name": "niieani/hashids.js",
-    "stargazers_count": 3853,
+    "stargazers_count": 3855,
     "open_issues_count": 14,
     "forks_count": 214
   },
   {
     "full_name": "octokatherine/readme.so",
-    "stargazers_count": 3044,
+    "stargazers_count": 3051,
     "open_issues_count": 29,
-    "forks_count": 224
+    "forks_count": 225
   },
   {
     "full_name": "angular/angular-cli",
-    "stargazers_count": 25718,
-    "open_issues_count": 207,
-    "forks_count": 12112
+    "stargazers_count": 25722,
+    "open_issues_count": 209,
+    "forks_count": 12115
   },
   {
     "full_name": "Polymer/polymer",
@@ -55,8 +55,8 @@
   },
   {
     "full_name": "JedWatson/classnames",
-    "stargazers_count": 16005,
-    "open_issues_count": 6,
-    "forks_count": 549
+    "stargazers_count": 16016,
+    "open_issues_count": 5,
+    "forks_count": 550
   }
 ]
