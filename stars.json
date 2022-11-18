@@ -1,8 +1,8 @@
 [
   {
     "full_name": "rishavanand/github-profilinator",
-    "stargazers_count": 655,
-    "open_issues_count": 12,
+    "stargazers_count": 658,
+    "open_issues_count": 13,
     "forks_count": 61
   },
   {
@@ -20,7 +20,7 @@
   {
     "full_name": "banner-maker/banner-maker",
     "stargazers_count": 129,
-    "open_issues_count": 31,
+    "open_issues_count": 32,
     "forks_count": 22
   },
   {
@@ -31,32 +31,32 @@
   },
   {
     "full_name": "niieani/hashids.js",
-    "stargazers_count": 3858,
+    "stargazers_count": 3862,
     "open_issues_count": 14,
     "forks_count": 214
   },
   {
     "full_name": "octokatherine/readme.so",
-    "stargazers_count": 3062,
+    "stargazers_count": 3073,
     "open_issues_count": 29,
-    "forks_count": 227
+    "forks_count": 229
   },
   {
     "full_name": "angular/angular-cli",
-    "stargazers_count": 25721,
-    "open_issues_count": 209,
-    "forks_count": 12117
+    "stargazers_count": 25726,
+    "open_issues_count": 208,
+    "forks_count": 12116
   },
   {
     "full_name": "Polymer/polymer",
-    "stargazers_count": 21872,
+    "stargazers_count": 21871,
     "open_issues_count": 52,
     "forks_count": 2027
   },
   {
     "full_name": "JedWatson/classnames",
-    "stargazers_count": 16024,
+    "stargazers_count": 16036,
     "open_issues_count": 6,
-    "forks_count": 551
+    "forks_count": 552
   }
 ]
