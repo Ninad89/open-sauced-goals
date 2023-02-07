@@ -1,31 +1,31 @@
 [
   {
     "full_name": "pinojs/pino-http",
-    "stargazers_count": 359,
-    "open_issues_count": 29,
-    "forks_count": 95
+    "stargazers_count": 360,
+    "open_issues_count": 28,
+    "forks_count": 94
   },
   {
     "full_name": "pinojs/pino",
-    "stargazers_count": 10874,
-    "open_issues_count": 98,
-    "forks_count": 784
+    "stargazers_count": 10892,
+    "open_issues_count": 97,
+    "forks_count": 786
   },
   {
     "full_name": "expressjs/expressjs.com",
-    "stargazers_count": 4722,
+    "stargazers_count": 4725,
     "open_issues_count": 75,
     "forks_count": 1218
   },
   {
     "full_name": "Ninad89/express-headers-setter",
     "stargazers_count": 3,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "rishavanand/github-profilinator",
-    "stargazers_count": 764,
+    "stargazers_count": 768,
     "open_issues_count": 19,
     "forks_count": 66
   },
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension",
-    "stargazers_count": 164,
+    "stargazers_count": 163,
     "open_issues_count": 22,
     "forks_count": 34
   },
   {
     "full_name": "banner-maker/banner-maker",
-    "stargazers_count": 135,
+    "stargazers_count": 136,
     "open_issues_count": 36,
     "forks_count": 23
   },
@@ -55,26 +55,26 @@
   },
   {
     "full_name": "octokatherine/readme.so",
-    "stargazers_count": 3248,
-    "open_issues_count": 27,
-    "forks_count": 243
+    "stargazers_count": 3257,
+    "open_issues_count": 29,
+    "forks_count": 244
   },
   {
     "full_name": "angular/angular-cli",
-    "stargazers_count": 25913,
-    "open_issues_count": 226,
-    "forks_count": 12112
+    "stargazers_count": 25915,
+    "open_issues_count": 223,
+    "forks_count": 12106
   },
   {
     "full_name": "Polymer/polymer",
-    "stargazers_count": 21908,
+    "stargazers_count": 21911,
     "open_issues_count": 56,
     "forks_count": 2027
   },
   {
     "full_name": "JedWatson/classnames",
-    "stargazers_count": 16370,
-    "open_issues_count": 7,
+    "stargazers_count": 16377,
+    "open_issues_count": 8,
     "forks_count": 570
   }
 ]
