@@ -1,26 +1,26 @@
 [
   {
     "full_name": "w9jds/firebase-action",
-    "stargazers_count": 801,
-    "open_issues_count": 20,
-    "forks_count": 172
+    "stargazers_count": 803,
+    "open_issues_count": 22,
+    "forks_count": 173
   },
   {
     "full_name": "pinojs/pino-http",
-    "stargazers_count": 364,
-    "open_issues_count": 27,
+    "stargazers_count": 365,
+    "open_issues_count": 28,
     "forks_count": 96
   },
   {
     "full_name": "pinojs/pino",
-    "stargazers_count": 11014,
+    "stargazers_count": 11028,
     "open_issues_count": 82,
-    "forks_count": 791
+    "forks_count": 793
   },
   {
     "full_name": "expressjs/expressjs.com",
-    "stargazers_count": 4743,
-    "open_issues_count": 80,
+    "stargazers_count": 4745,
+    "open_issues_count": 82,
     "forks_count": 1220
   },
   {
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "rishavanand/github-profilinator",
-    "stargazers_count": 789,
+    "stargazers_count": 797,
     "open_issues_count": 20,
-    "forks_count": 67
+    "forks_count": 68
   },
   {
     "full_name": "Ninad89/joi-relative-date-validator",
@@ -50,36 +50,36 @@
   {
     "full_name": "banner-maker/banner-maker",
     "stargazers_count": 136,
-    "open_issues_count": 36,
+    "open_issues_count": 17,
     "forks_count": 23
   },
   {
     "full_name": "niieani/hashids.js",
-    "stargazers_count": 3937,
+    "stargazers_count": 3939,
     "open_issues_count": 6,
     "forks_count": 214
   },
   {
     "full_name": "octokatherine/readme.so",
-    "stargazers_count": 3288,
+    "stargazers_count": 3293,
     "open_issues_count": 31,
-    "forks_count": 249
+    "forks_count": 250
   },
   {
     "full_name": "angular/angular-cli",
-    "stargazers_count": 25958,
-    "open_issues_count": 208,
-    "forks_count": 12096
+    "stargazers_count": 25966,
+    "open_issues_count": 211,
+    "forks_count": 12098
   },
   {
     "full_name": "Polymer/polymer",
-    "stargazers_count": 21917,
+    "stargazers_count": 21920,
     "open_issues_count": 56,
-    "forks_count": 2030
+    "forks_count": 2029
   },
   {
     "full_name": "JedWatson/classnames",
-    "stargazers_count": 16438,
+    "stargazers_count": 16449,
     "open_issues_count": 8,
     "forks_count": 572
   }
