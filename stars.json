@@ -1,27 +1,27 @@
 [
   {
     "full_name": "w9jds/firebase-action",
-    "stargazers_count": 870,
-    "open_issues_count": 27,
+    "stargazers_count": 872,
+    "open_issues_count": 26,
     "forks_count": 186
   },
   {
     "full_name": "pinojs/pino-http",
-    "stargazers_count": 433,
-    "open_issues_count": 27,
+    "stargazers_count": 435,
+    "open_issues_count": 28,
     "forks_count": 104
   },
   {
     "full_name": "pinojs/pino",
-    "stargazers_count": 12199,
-    "open_issues_count": 80,
-    "forks_count": 844
+    "stargazers_count": 12215,
+    "open_issues_count": 79,
+    "forks_count": 843
   },
   {
     "full_name": "expressjs/expressjs.com",
-    "stargazers_count": 4954,
-    "open_issues_count": 108,
-    "forks_count": 1297
+    "stargazers_count": 4959,
+    "open_issues_count": 107,
+    "forks_count": 1298
   },
   {
     "full_name": "Ninad89/express-headers-setter",
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "rishavanand/github-profilinator",
-    "stargazers_count": 939,
+    "stargazers_count": 941,
     "open_issues_count": 23,
     "forks_count": 79
   },
@@ -43,14 +43,14 @@
   },
   {
     "full_name": "GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension",
-    "stargazers_count": 189,
+    "stargazers_count": 190,
     "open_issues_count": 26,
     "forks_count": 36
   },
   {
     "full_name": "banner-maker/banner-maker",
     "stargazers_count": 135,
-    "open_issues_count": 17,
+    "open_issues_count": 16,
     "forks_count": 23
   },
   {
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "octokatherine/readme.so",
-    "stargazers_count": 3596,
+    "stargazers_count": 3609,
     "open_issues_count": 30,
-    "forks_count": 281
+    "forks_count": 282
   },
   {
     "full_name": "angular/angular-cli",
-    "stargazers_count": 26252,
-    "open_issues_count": 276,
-    "forks_count": 12134
+    "stargazers_count": 26244,
+    "open_issues_count": 273,
+    "forks_count": 12130
   },
   {
     "full_name": "Polymer/polymer",
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "JedWatson/classnames",
-    "stargazers_count": 16965,
+    "stargazers_count": 16969,
     "open_issues_count": 14,
-    "forks_count": 605
+    "forks_count": 606
   }
 ]
