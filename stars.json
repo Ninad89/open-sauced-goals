@@ -1,8 +1,8 @@
 [
   {
     "full_name": "w9jds/firebase-action",
-    "stargazers_count": 883,
-    "open_issues_count": 34,
+    "stargazers_count": 881,
+    "open_issues_count": 31,
     "forks_count": 190
   },
   {
@@ -13,13 +13,13 @@
   },
   {
     "full_name": "pinojs/pino",
-    "stargazers_count": 12491,
-    "open_issues_count": 89,
+    "stargazers_count": 12511,
+    "open_issues_count": 88,
     "forks_count": 847
   },
   {
     "full_name": "expressjs/expressjs.com",
-    "stargazers_count": 5018,
+    "stargazers_count": 5019,
     "open_issues_count": 96,
     "forks_count": 1326
   },
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "rishavanand/github-profilinator",
-    "stargazers_count": 961,
+    "stargazers_count": 959,
     "open_issues_count": 24,
     "forks_count": 78
   },
@@ -61,26 +61,26 @@
   },
   {
     "full_name": "octokatherine/readme.so",
-    "stargazers_count": 3663,
+    "stargazers_count": 3668,
     "open_issues_count": 29,
     "forks_count": 289
   },
   {
     "full_name": "angular/angular-cli",
-    "stargazers_count": 26370,
-    "open_issues_count": 276,
-    "forks_count": 12149
+    "stargazers_count": 26379,
+    "open_issues_count": 267,
+    "forks_count": 12150
   },
   {
     "full_name": "Polymer/polymer",
-    "stargazers_count": 21969,
+    "stargazers_count": 21970,
     "open_issues_count": 69,
-    "forks_count": 2052
+    "forks_count": 2053
   },
   {
     "full_name": "JedWatson/classnames",
-    "stargazers_count": 17083,
+    "stargazers_count": 17092,
     "open_issues_count": 19,
-    "forks_count": 617
+    "forks_count": 618
   }
 ]
