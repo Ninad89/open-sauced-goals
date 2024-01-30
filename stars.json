@@ -1,27 +1,27 @@
 [
   {
     "full_name": "w9jds/firebase-action",
-    "stargazers_count": 888,
-    "open_issues_count": 33,
+    "stargazers_count": 887,
+    "open_issues_count": 32,
     "forks_count": 192
   },
   {
     "full_name": "pinojs/pino-http",
     "stargazers_count": 460,
-    "open_issues_count": 37,
+    "open_issues_count": 36,
     "forks_count": 114
   },
   {
     "full_name": "pinojs/pino",
-    "stargazers_count": 12745,
-    "open_issues_count": 90,
+    "stargazers_count": 12767,
+    "open_issues_count": 89,
     "forks_count": 857
   },
   {
     "full_name": "expressjs/expressjs.com",
-    "stargazers_count": 5068,
-    "open_issues_count": 97,
-    "forks_count": 1354
+    "stargazers_count": 5070,
+    "open_issues_count": 100,
+    "forks_count": 1356
   },
   {
     "full_name": "Ninad89/express-headers-setter",
@@ -45,7 +45,7 @@
     "full_name": "GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension",
     "stargazers_count": 204,
     "open_issues_count": 27,
-    "forks_count": 38
+    "forks_count": 39
   },
   {
     "full_name": "banner-maker/banner-maker",
@@ -55,31 +55,31 @@
   },
   {
     "full_name": "niieani/hashids.js",
-    "stargazers_count": 4170,
-    "open_issues_count": 8,
+    "stargazers_count": 4172,
+    "open_issues_count": 9,
     "forks_count": 216
   },
   {
     "full_name": "octokatherine/readme.so",
-    "stargazers_count": 3722,
+    "stargazers_count": 3727,
     "open_issues_count": 30,
-    "forks_count": 293
+    "forks_count": 295
   },
   {
     "full_name": "angular/angular-cli",
-    "stargazers_count": 26531,
-    "open_issues_count": 256,
-    "forks_count": 12171
+    "stargazers_count": 26539,
+    "open_issues_count": 258,
+    "forks_count": 12170
   },
   {
     "full_name": "Polymer/polymer",
-    "stargazers_count": 21994,
+    "stargazers_count": 21998,
     "open_issues_count": 72,
-    "forks_count": 2065
+    "forks_count": 2067
   },
   {
     "full_name": "JedWatson/classnames",
-    "stargazers_count": 17197,
+    "stargazers_count": 17204,
     "open_issues_count": 2,
     "forks_count": 622
   }
