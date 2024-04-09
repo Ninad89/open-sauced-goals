@@ -2,8 +2,8 @@
   {
     "full_name": "w9jds/firebase-action",
     "stargazers_count": 900,
-    "open_issues_count": 36,
-    "forks_count": 192
+    "open_issues_count": 37,
+    "forks_count": 194
   },
   {
     "full_name": "pinojs/pino-http",
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "pinojs/pino",
-    "stargazers_count": 13162,
-    "open_issues_count": 100,
-    "forks_count": 837
+    "stargazers_count": 13171,
+    "open_issues_count": 99,
+    "forks_count": 840
   },
   {
     "full_name": "expressjs/expressjs.com",
-    "stargazers_count": 5145,
-    "open_issues_count": 72,
-    "forks_count": 1341
+    "stargazers_count": 5150,
+    "open_issues_count": 73,
+    "forks_count": 1345
   },
   {
     "full_name": "Ninad89/express-headers-setter",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "rishavanand/github-profilinator",
-    "stargazers_count": 1002,
+    "stargazers_count": 1008,
     "open_issues_count": 24,
-    "forks_count": 79
+    "forks_count": 78
   },
   {
     "full_name": "Ninad89/joi-relative-date-validator",
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension",
-    "stargazers_count": 209,
+    "stargazers_count": 211,
     "open_issues_count": 29,
     "forks_count": 42
   },
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "octokatherine/readme.so",
-    "stargazers_count": 3813,
+    "stargazers_count": 3821,
     "open_issues_count": 32,
-    "forks_count": 299
+    "forks_count": 301
   },
   {
     "full_name": "angular/angular-cli",
-    "stargazers_count": 26582,
-    "open_issues_count": 272,
-    "forks_count": 11999
+    "stargazers_count": 26578,
+    "open_issues_count": 271,
+    "forks_count": 11995
   },
   {
     "full_name": "Polymer/polymer",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "JedWatson/classnames",
-    "stargazers_count": 17328,
+    "stargazers_count": 17333,
     "open_issues_count": 4,
     "forks_count": 551
   }
