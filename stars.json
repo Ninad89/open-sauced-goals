@@ -7,21 +7,21 @@
   },
   {
     "full_name": "pinojs/pino-http",
-    "stargazers_count": 555,
+    "stargazers_count": 556,
     "open_issues_count": 40,
     "forks_count": 118
   },
   {
     "full_name": "pinojs/pino",
-    "stargazers_count": 14510,
+    "stargazers_count": 14519,
     "open_issues_count": 125,
-    "forks_count": 888
+    "forks_count": 889
   },
   {
     "full_name": "expressjs/expressjs.com",
     "stargazers_count": 5256,
     "open_issues_count": 80,
-    "forks_count": 1495
+    "forks_count": 1497
   },
   {
     "full_name": "Ninad89/express-headers-setter",
@@ -61,26 +61,26 @@
   },
   {
     "full_name": "octokatherine/readme.so",
-    "stargazers_count": 4338,
+    "stargazers_count": 4339,
     "open_issues_count": 38,
     "forks_count": 332
   },
   {
     "full_name": "angular/angular-cli",
-    "stargazers_count": 26796,
-    "open_issues_count": 310,
+    "stargazers_count": 26800,
+    "open_issues_count": 315,
     "forks_count": 11979
   },
   {
     "full_name": "Polymer/polymer",
-    "stargazers_count": 22045,
+    "stargazers_count": 22043,
     "open_issues_count": 80,
-    "forks_count": 2015
+    "forks_count": 2014
   },
   {
     "full_name": "JedWatson/classnames",
-    "stargazers_count": 17643,
-    "open_issues_count": 6,
+    "stargazers_count": 17645,
+    "open_issues_count": 5,
     "forks_count": 564
   }
 ]
