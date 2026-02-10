@@ -1,27 +1,27 @@
 [
   {
     "full_name": "w9jds/firebase-action",
-    "stargazers_count": 949,
+    "stargazers_count": 951,
     "open_issues_count": 39,
     "forks_count": 206
   },
   {
     "full_name": "pinojs/pino-http",
-    "stargazers_count": 670,
-    "open_issues_count": 41,
+    "stargazers_count": 669,
+    "open_issues_count": 39,
     "forks_count": 124
   },
   {
     "full_name": "pinojs/pino",
-    "stargazers_count": 17293,
-    "open_issues_count": 147,
-    "forks_count": 937
+    "stargazers_count": 17319,
+    "open_issues_count": 143,
+    "forks_count": 936
   },
   {
     "full_name": "expressjs/expressjs.com",
     "stargazers_count": 5329,
     "open_issues_count": 36,
-    "forks_count": 2060
+    "forks_count": 2057
   },
   {
     "full_name": "Ninad89/express-headers-setter",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "rishavanand/github-profilinator",
-    "stargazers_count": 1211,
+    "stargazers_count": 1212,
     "open_issues_count": 28,
-    "forks_count": 91
+    "forks_count": 92
   },
   {
     "full_name": "Ninad89/joi-relative-date-validator",
@@ -55,31 +55,31 @@
   },
   {
     "full_name": "niieani/hashids.js",
-    "stargazers_count": 4363,
+    "stargazers_count": 4365,
     "open_issues_count": 10,
     "forks_count": 204
   },
   {
     "full_name": "octokatherine/readme.so",
-    "stargazers_count": 4627,
+    "stargazers_count": 4628,
     "open_issues_count": 61,
-    "forks_count": 373
+    "forks_count": 372
   },
   {
     "full_name": "angular/angular-cli",
     "stargazers_count": 27029,
-    "open_issues_count": 279,
-    "forks_count": 11907
+    "open_issues_count": 276,
+    "forks_count": 11904
   },
   {
     "full_name": "Polymer/polymer",
-    "stargazers_count": 22070,
+    "stargazers_count": 22072,
     "open_issues_count": 79,
-    "forks_count": 1985
+    "forks_count": 1984
   },
   {
     "full_name": "JedWatson/classnames",
-    "stargazers_count": 17820,
+    "stargazers_count": 17824,
     "open_issues_count": 8,
     "forks_count": 560
   }
