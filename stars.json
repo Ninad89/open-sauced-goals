@@ -1,7 +1,7 @@
 [
   {
     "full_name": "w9jds/firebase-action",
-    "stargazers_count": 948,
+    "stargazers_count": 950,
     "open_issues_count": 39,
     "forks_count": 206
   },
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "pinojs/pino",
-    "stargazers_count": 17793,
-    "open_issues_count": 141,
+    "stargazers_count": 17808,
+    "open_issues_count": 142,
     "forks_count": 954
   },
   {
     "full_name": "expressjs/expressjs.com",
-    "stargazers_count": 5328,
-    "open_issues_count": 40,
-    "forks_count": 2085
+    "stargazers_count": 5330,
+    "open_issues_count": 42,
+    "forks_count": 2088
   },
   {
     "full_name": "Ninad89/express-headers-setter",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "rishavanand/github-profilinator",
-    "stargazers_count": 1228,
+    "stargazers_count": 1229,
     "open_issues_count": 28,
-    "forks_count": 91
+    "forks_count": 92
   },
   {
     "full_name": "Ninad89/joi-relative-date-validator",
@@ -45,7 +45,7 @@
     "full_name": "GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension",
     "stargazers_count": 248,
     "open_issues_count": 32,
-    "forks_count": 51
+    "forks_count": 50
   },
   {
     "full_name": "banner-maker/banner-maker",
@@ -57,19 +57,19 @@
     "full_name": "niieani/hashids.js",
     "stargazers_count": 4298,
     "open_issues_count": 10,
-    "forks_count": 204
+    "forks_count": 203
   },
   {
     "full_name": "octokatherine/readme.so",
     "stargazers_count": 4633,
-    "open_issues_count": 65,
+    "open_issues_count": 64,
     "forks_count": 370
   },
   {
     "full_name": "angular/angular-cli",
-    "stargazers_count": 27039,
-    "open_issues_count": 309,
-    "forks_count": 11871
+    "stargazers_count": 27041,
+    "open_issues_count": 311,
+    "forks_count": 11869
   },
   {
     "full_name": "Polymer/polymer",
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "JedWatson/classnames",
-    "stargazers_count": 17800,
-    "open_issues_count": 10,
-    "forks_count": 560
+    "stargazers_count": 17799,
+    "open_issues_count": 11,
+    "forks_count": 559
   }
 ]
