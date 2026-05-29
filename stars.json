@@ -13,20 +13,20 @@
   },
   {
     "full_name": "pinojs/pino",
-    "stargazers_count": 17875,
-    "open_issues_count": 143,
-    "forks_count": 956
+    "stargazers_count": 17890,
+    "open_issues_count": 142,
+    "forks_count": 958
   },
   {
     "full_name": "expressjs/expressjs.com",
-    "stargazers_count": 5334,
-    "open_issues_count": 52,
-    "forks_count": 2115
+    "stargazers_count": 5342,
+    "open_issues_count": 54,
+    "forks_count": 2128
   },
   {
     "full_name": "Ninad89/express-headers-setter",
     "stargazers_count": 3,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 2
   },
   {
@@ -38,7 +38,7 @@
   {
     "full_name": "Ninad89/joi-relative-date-validator",
     "stargazers_count": 1,
-    "open_issues_count": 5,
+    "open_issues_count": 4,
     "forks_count": 1
   },
   {
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "niieani/hashids.js",
-    "stargazers_count": 4299,
+    "stargazers_count": 4298,
     "open_issues_count": 10,
     "forks_count": 203
   },
@@ -63,13 +63,13 @@
     "full_name": "octokatherine/readme.so",
     "stargazers_count": 4633,
     "open_issues_count": 63,
-    "forks_count": 368
+    "forks_count": 367
   },
   {
     "full_name": "angular/angular-cli",
-    "stargazers_count": 27032,
+    "stargazers_count": 27030,
     "open_issues_count": 306,
-    "forks_count": 11864
+    "forks_count": 11865
   },
   {
     "full_name": "Polymer/polymer",
@@ -80,7 +80,7 @@
   {
     "full_name": "JedWatson/classnames",
     "stargazers_count": 17797,
-    "open_issues_count": 12,
+    "open_issues_count": 11,
     "forks_count": 557
   }
 ]
